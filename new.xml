@@ -1,4 +1,6 @@
-<firstlastname>Ахмадеева Динара Д.</firstlastname>
-<Age>25</Age>
-<Pets>2</Pets>
-<Salary>70к</Salary>
+{       
+       "Full_name": "Ахмадеева Динара Д.",
+       "Age": 25,
+       "Pets": 2,
+       "Salary": 70
+}
