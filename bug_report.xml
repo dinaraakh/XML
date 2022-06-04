@@ -1,1 +1,17 @@
+<Bug_id>1</Bug_id>
+<Title>When you zoom in the widget, a white dash line appears and disappears for a second</Title>
+<Severity>Major</Severity>
+<Priority>High</Priority> 
+<Environment>Redmi Note 7, Android 10 QKQ1 MIUI Global 12.5.1</Environment>
+<Precondition> 
+  <1>Open the Android grit test app</1>
+  <2>Tap once on the Add widget button<2>
+</Precondition> 
+<STR>
+ <Step1>Tap on the widget<Step1>
+ <Step2>Resize widget:  pull right, left, down, up<Step2>
+</STR>  
+<AR>When resizing the widget, the white dash lines are not displayed on the widget outline: top, bottom, left, right</AR>
+<ER>When resizing the widget, the white dash lines will be displayed on the widget outline: top, bottom, left, right</ER>
+<Attachments>https://drive.google.com/file/d/1k36lCGmZcThJTb7NZ7JvwiOUgKy5J0UE/view?usp=sharing<Attachments>
 
