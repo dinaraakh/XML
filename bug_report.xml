@@ -5,13 +5,13 @@
 <Environment>Redmi Note 7, Android 10 QKQ1 MIUI Global 12.5.1</Environment>
 <Precondition> 
   <1>Open the Android grit test app</1>
-  <2>Tap once on the Add widget button<2>
+  <2>Tap once on the Add widget button</2>
 </Precondition> 
 <STR>
- <Step1>Tap on the widget<Step1>
- <Step2>Resize widget:  pull right, left, down, up<Step2>
+ <Step1>Tap on the widget</Step1>
+ <Step2>Resize widget:  pull right, left, down, up</Step2>
 </STR>  
 <AR>When resizing the widget, the white dash lines are not displayed on the widget outline: top, bottom, left, right</AR>
 <ER>When resizing the widget, the white dash lines will be displayed on the widget outline: top, bottom, left, right</ER>
-<Attachments>https://drive.google.com/file/d/1k36lCGmZcThJTb7NZ7JvwiOUgKy5J0UE/view?usp=sharing<Attachments>
+<Attachments>https://drive.google.com/file/d/1k36lCGmZcThJTb7NZ7JvwiOUgKy5J0UE/view?usp=sharing</Attachments>
 
